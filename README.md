@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Sami! Nice to meet you! Currently, I am focusing on Web Dev (Front End cuz Back End is so confusing🙄). If you wanna get in touch, feel free to send me a "hey" at my (email)[mailto:samuelworash@gmail.com] or (linkedin)[https://linkedin.com/in/samuel-worash-getaneh]. Feel free to connect as well!
+I am Sami! Nice to meet you! Currently, I am focusing on Web Dev (Front End cuz Back End is so confusing🙄). If you wanna get in touch, feel free to send me a "hey" at my [email](mailto:samuelworash@gmail.com) or [Linkedin](https://linkedin.com/in/samuel-worash-getaneh). Feel free to connect as well!
 
 ### Cheers 🥂
