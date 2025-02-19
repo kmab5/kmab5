@@ -1,4 +1,4 @@
-## Hi there 👋
+### Hi there 👋
 
 <!--
 **kmab5/kmab5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am Sami! Nice to meet you! Currently, I am focusing on Web Dev (Front End cuz Back End is so confusing🙄). If you wanna get in touch, feel free to send me a "hey" at my (email)[mailto:samuelworash@gmail.com] or (linkedin)[https://linkedin.com/in/samuel-worash-getaneh]. Feel free to connect as well!
+
+### Cheers 🥂
